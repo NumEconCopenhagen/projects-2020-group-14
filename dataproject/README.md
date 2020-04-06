@@ -1,14 +1,7 @@
 # Data analysis project
 
-Our project is titled **Data Project** and is about .
+Our project is titled **Data Project** and is about the level of educaion given their parents education level. 
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
-This **loades two datasets**:
-
-1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
-1. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
-
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
-
-``pip install matplotlib-venn``
+We use the dataset called data.xslx that we have from table STATUS42 from Danmarks Statistik. 
