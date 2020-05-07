@@ -1,7 +1,5 @@
 # Model analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project an analysis of a solow model with a chaning share of workers in the economy. We want to know, how a change in the labor suply will affect the capital levet as well as the levet of output in steady state. 
 
-The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
-
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
+Our **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
