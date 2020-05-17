@@ -4,4 +4,4 @@ Our model project is an analysis of a Solow model with a changing share of worke
 
 We find that an increase in the labor supply is a very effective way to increase the production of an economy. Maybe this could be a part of the solution when Denmark want to get the economy up and running again after the covid19 crisis?
 
-Our results of the project can be seen from running [Model Analysis Project.ipynb](Model Analasis Project.ipynb).
+Our results of the project can be seen from running [Model Analysis Project.ipynb](Model Analysis Project.ipynb).
